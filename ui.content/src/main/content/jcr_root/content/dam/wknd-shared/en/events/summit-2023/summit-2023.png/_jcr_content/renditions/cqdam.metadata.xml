@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+      exif:PixelXDimension="1866"
+      exif:PixelYDimension="1130"
+      dam:Physicalwidthindpi="144"
+      dam:MIMEtype="image/png"
+      dam:Physicalheightininches="7.847625732421875"
+      dam:Comments="XML:com.adobe.xmp: &lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;XMP Core 6.0.0&quot;&gt;&#xA;   &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;&#xA;      &lt;rdf:Description rdf:about=&quot;&quot;&#xA;            xmlns:exif=&quot;http://ns.adobe.com/exif/1.0/&quot;&gt;&#xA;         &lt;exif:PixelYDimension&gt;1130&lt;/exif:PixelYDimension&gt;&#xA;         &lt;exif:PixelXDimension&gt;1866&lt;/exif:PixelXDimension&gt;&#xA;         &lt;exif:UserComment&gt;Screenshot&lt;/exif:UserComment&gt;&#xA;      &lt;/rdf:Description&gt;&#xA;   &lt;/rdf:RDF&gt;&#xA;&lt;/x:xmpmeta&gt;&#xA;&#xA;"
+      dam:Physicalheightindpi="144"
+      dam:Physicalwidthininches="12.958999633789062"
+      dam:Bitsperpixel="32"
+      dam:Progressive="no"
+      dam:size="2720275"
+      dam:Numberoftextualcomments="1"
+      dam:sha1="7eafec099ff37d72105bdd6f159d5e8b67781463"
+      dam:Numberofimages="1"
+      dam:Fileformat="PNG"
+      dc:format="image/png"
+      tiff:ImageWidth="1866"
+      tiff:ImageLength="1130">
+      <exif:UserComment>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Screenshot</rdf:li>
+        </rdf:Alt>
+      </exif:UserComment>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

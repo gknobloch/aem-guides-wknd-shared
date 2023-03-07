@@ -66,6 +66,13 @@
                             </options>
                         </jackrabbit-filter>
                     </validatorsSettings>
+                    <dependencies>
+                        <dependency>
+                            <groupId>com.adobe.cq.dam</groupId>
+                            <artifactId>cfm-graphql-content</artifactId>
+                            <version>[0.0.28,)</version>
+                        </dependency>
+                    </dependencies>
                 </configuration>
             </plugin>
             <plugin>
@@ -87,6 +94,12 @@
         <dependency>
             <groupId>com.adobe.aem</groupId>
             <artifactId>aem-sdk-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.adobe.cq.dam</groupId>
+            <artifactId>cfm-graphql-content</artifactId>
+            <version>0.0.28</version>
+            <type>zip</type>
         </dependency>
     </dependencies>
 </project>

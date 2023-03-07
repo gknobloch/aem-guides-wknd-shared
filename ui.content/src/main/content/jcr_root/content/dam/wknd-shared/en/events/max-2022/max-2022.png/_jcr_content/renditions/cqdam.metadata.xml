@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+      tiff:Orientation="1"
+      tiff:ImageWidth="2000"
+      tiff:ImageLength="876"
+      dam:Physicalwidthindpi="-1"
+      dam:MIMEtype="image/png"
+      dam:Physicalheightininches="-1.0"
+      dam:Comments="XML:com.adobe.xmp: &lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;XMP Core 6.0.0&quot;&gt;&#xA;   &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;&#xA;      &lt;rdf:Description rdf:about=&quot;&quot;&#xA;            xmlns:tiff=&quot;http://ns.adobe.com/tiff/1.0/&quot;&gt;&#xA;         &lt;tiff:Orientation&gt;1&lt;/tiff:Orientation&gt;&#xA;      &lt;/rdf:Description&gt;&#xA;   &lt;/rdf:RDF&gt;&#xA;&lt;/x:xmpmeta&gt;&#xA;&#xA;"
+      dam:Physicalheightindpi="-1"
+      dam:Physicalwidthininches="-1.0"
+      dam:Bitsperpixel="32"
+      dam:Progressive="no"
+      dam:size="970813"
+      dam:Numberoftextualcomments="1"
+      dam:sha1="2dca9dc8009c8ff696e3b4468ce7c569905d52ea"
+      dam:Numberofimages="1"
+      dam:Fileformat="PNG"
+      dc:format="image/png"/>
+  </rdf:RDF>
+</x:xmpmeta>
